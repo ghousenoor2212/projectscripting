@@ -1,4 +1,4 @@
-On Error Resume Next
+Option Explicit
 dim filesys, newfolder,  fso
  
 
