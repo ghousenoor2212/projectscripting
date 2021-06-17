@@ -1,8 +1,6 @@
 On Error Resume Next
 
- 
-
-Set fso = CreateObject("Scripting.FileSystemObject")
+ Set fso = CreateObject("Scripting.FileSystemObject")
 Set objShell = CreateObject("WScript.Shell") 
 dim filesys, newfolder,  fso
 
